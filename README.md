@@ -3,9 +3,9 @@
 2. DONE
 3. DONE
 4. DONE
-5.
-6.
-7.
+5. DONE
+6. DONE
+7. now -> Klasa Select i metoda getText()
 8.
 9.
 10.
